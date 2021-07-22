@@ -2,11 +2,13 @@
 
 ## Image Build Info
 
-| Base  | node:8.9-alpine |
-| Work Directory  |  /app |   
-| Build Instructions  |  Refere Below |
-| Ports | 80 |
-| Launch Command | node server.js |
+| Item      | Description |   
+| :---        |    :----:   |  
+| Base  | node:8.9-alpine |  
+| Work Directory  |  /app |     
+| Build Instructions  |  Refere Below |  
+| Ports | 80 |  
+| Launch Command | node server.js |  
 
 ### Build Instrcutions
 
